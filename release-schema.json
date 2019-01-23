@@ -1,0 +1,22 @@
+{
+  "definitions": {
+    "Document": {
+      "properties": {
+        "relatedItem": {
+          "title": "Related Item",
+          "type": "string",
+          "description": "Identifier of the item that the document belongs to"
+        },
+        "documentScope": {
+          "title": "Document scope",
+          "enum": [
+            "tender",
+            "item"
+          ],
+          "type": "string",
+          "description": "Entity to which the document belongs"
+        }
+      }
+    }
+  }
+}

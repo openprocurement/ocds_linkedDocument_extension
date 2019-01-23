@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Linked Document"
+  },
+  "description": {
+    "en": "Shows entity to which the document belongs"
+  },
+  "documentationUrl": {
+    "en": ""
+  },
+   "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}
