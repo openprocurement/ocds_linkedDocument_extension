@@ -12,7 +12,6 @@ The following extract illustrates this property in use within the documents bloc
 {
     "documents": [
           {
-            "hash": "md5:00000000000000000000000000000000",
             "language": "uk",
             "title": "Notice.pdf",
             "url": "http://public.docs-sandbox.openprocurement.org/get/f8910e202a3f451a904ae67142358a74?KeyID=d8e133db&Signature=gWwLvym6za8Ii%252BfpoueQoftCtQSE4M%2FyyNKu%2FtLjuy96l%2FYJoH%252BUFQ4Up8YpoFnppZo1mHxGOuZ2XMOK49ZLDg%253D%253D",
